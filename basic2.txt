@@ -1,1 +1,2 @@
 i am suresh learning for GIT
+to mastering the version control system
